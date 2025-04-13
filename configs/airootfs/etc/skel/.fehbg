@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '~/.wallpaper/1.png' 
