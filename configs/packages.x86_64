@@ -26,7 +26,6 @@ efibootmgr
 espeakup
 ethtool
 exfatprogs
-f2fs-tools
 fatresize
 foot-terminfo
 fsarchiver
@@ -124,8 +123,15 @@ xfsprogs
 xl2tpd
 zsh
 
+#X11
+
+xorg
+xorg-server
+xapps
+
 #desktop
 
+sddm
 i3
 okular
 #konsole
